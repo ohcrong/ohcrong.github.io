@@ -19,7 +19,7 @@ But in the end, it's right"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-       보여라 내 앞날:)
+ 
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
